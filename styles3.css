@@ -8,7 +8,7 @@ body {
     width: 100%;
 }
 
-nav {
+header {
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -100,7 +100,7 @@ p {
 }
 
 @media screen and (min-width: 768px){
-    nav {
+    header {
         flex-direction: row;
     }
     
